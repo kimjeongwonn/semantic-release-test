@@ -1,0 +1,8 @@
+{
+  "name": "semantic-release-test",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/kimjeongwonn/semantic-release-test.git",
+  "author": "kimjeongwonn <kimjeongwonn@gmail.com>",
+  "license": "MIT"
+}
